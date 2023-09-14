@@ -67,6 +67,7 @@ public class Orange {
         OPanier.add(new Orange(15,"France"));
     }
         System.out.println(OPanier);
+        System.out.println("wow");
 
    }
 }
